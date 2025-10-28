@@ -5,3 +5,4 @@ Hello World!
 
 \r\n - feature-C
 Fix typo
+\r\n - feature-D
